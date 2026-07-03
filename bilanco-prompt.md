@@ -15,6 +15,13 @@ Analiz yapısı:
 5. Değerleme çerçevesi: F/K, PD/DD, FD/FAVÖK gibi çarpanlar — hem kendi tarihsel ortalamasına hem sektöre göre pahalı/ucuz görünümü (yatırım tavsiyesi değil, çerçeve)
 6. Önceki analizle bağ: Geçen çeyrek ne beklemiştik, ne gerçekleşti (ilk analizse bu bölüm atlanır)
 7. Kullanıcıya sorular: 2-3 düşündürücü soru sor — cevaplarsa `notlar.md`'ye soru+cevap+değerlendirme eklenir
+8. Yatırım Değerlendirme Çerçevesi (al/sat tavsiyesi DEĞİL — karar haritası): Analizin sonunda, kullanıcının kendi kararını verebilmesi için şu çerçeveyi doldur:
+   - **Boğa senaryosu (bull case):** Bu hisseye yatırım yapan biri neye güveniyor olurdu? En güçlü 2-3 argüman, somut dayanaklarıyla
+   - **Ayı senaryosu (bear case):** Bu hisseden uzak duran biri neden duruyor olurdu? En güçlü 2-3 risk, somut dayanaklarıyla
+   - **Hangi senaryo hangi koşulda kazanır:** "Eğer X gerçekleşirse (örn. faiz indirimi gelirse / sektör regülasyonu değişirse) boğa senaryosu güçlenir, eğer Y olursa ayı senaryosu haklı çıkar" — kullanıcının takip edeceği somut tetikleyiciler
+   - **Bu hisse kimin için uygun, kimin için değil:** "Uzun vadeli, temettü odaklı biri için şu anlama gelir; kısa vadeli momentum arayan biri için şu" — profil bazlı okuma
+   - **Elinde olan biri için kontrol soruları:** "Bu hisseyi bugün elinde tutuyorsan kendine sorman gerekenler: alım tezin hâlâ geçerli mi? Şu çeyrekte şunu bekliyordun, geldi mi?" — pozisyon gözden geçirme mantığı
+   - Bölümün sonuna her zaman ekle: *"Bu bir yatırım tavsiyesi değil, karar çerçevesidir — karar ve sorumluluk yatırımcınındır."*
 
 Öğretici katman (kritik): Her finansal kavram/oran İLK geçtiğinde 1-2 cümleyle ne olduğunu ve bu şirket özelinde neden önemli olduğunu açıkla. Kullanıcı öğrenme aşamasında — jargonu açıklamadan kullanma, ama çocukça da anlatma.
 
