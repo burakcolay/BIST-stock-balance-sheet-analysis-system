@@ -6,8 +6,8 @@
 
 ECILC, adında "ilaç" geçse de saf bir ilaç üreticisi değil; **üretim faaliyeti olmayan bir holding/yatırım şirketi**. Eczacıbaşı Topluluğu'nun sağlık ve finansal yatırımlar kolunu temsil eder. Geliri iki ana kaynaktan gelir:
 
-1. **Bağlı ortaklıkların operasyonel sonuçları** (ilaç pazarlama, jenerik ilaç üretimi, gayrimenkul)
-2. **Finansal yatırım portföyü** (mevduat, fon, menkul kıymet gelirleri) — bilançonun büyük kısmı budur
+1. **Bağlı ortaklıkların operasyonel sonuçları** (ilaç pazarlama, jenerik ilaç üretimi, gayrimenkul) — konsolide satışlar çeyrekte ~2,5-3 milyar TL
+2. **Yatırım portföyü:** ~38 milyar TL uzun vadeli finansal yatırım (grup şirketi payları, gerçeğe uygun değerle) + ~24 milyar TL yatırım amaçlı gayrimenkul (Kanyon vb.) — 82 milyar TL'lik bilançonun dörtte üçü budur (2026/03, Fintables)
 
 1951'de kuruldu, 1990'da halka açıldı. Ana hissedar: **Eczacıbaşı Holding A.Ş. (~%37,3)**.
 
@@ -32,11 +32,11 @@ ECILC, adında "ilaç" geçse de saf bir ilaç üreticisi değil; **üretim faal
 
 - İlaç tarafında BIST'teki karşılaştırılabilir şirketler: **DEVA** (üretici), **SELEC** (Selçuk Ecza — dağıtım). Birebir rakip yok çünkü ECILC holding yapısında; ilaç operasyonları (EİP+Gensenta) DEVA/SELEC ile, holding karakteri ise yatırım holdingleriyle kıyaslanır.
 - **Sektör dinamiği:** Türkiye'de ilaç fiyatları devlet kontrollü (EUR bazlı referans fiyat sistemi); kur güncellemeleri enflasyonun gerisinde kaldığında üretici/pazarlamacı marjları daralır. Jenerik üretimde (Gensenta) bu baskı belirgin — 1Ç26'daki hammadde tesisi kapatma kararı bu baskının işareti olarak okunabilir.
-- Holding karakteri nedeniyle sonuçlar **TMS 29 enflasyon muhasebesine** çok duyarlı: büyük parasal varlık pozisyonu, enflasyon düzeltmesinde "parasal pozisyon kaybı" üretebilir.
+- Holding karakteri nedeniyle sonuçlar **TMS 29 enflasyon muhasebesine** duyarlı: net parasal pozisyon kalemi çeyrekten çeyreğe yüz milyonlarca TL salınabiliyor (ör. 4Ç25: −762 mn, 1Ç26: −38 mn). Ancak portföyün ağırlığı parasal olmayan varlıklarda (iştirak payları, gayrimenkul) olduğundan bu kalem her çeyrek baskın olmak zorunda değil.
 
 ## Yapısal özellikler (analizde hatırlanacaklar)
 
 - **FAVÖK/hasılat küçük, bilanço büyük:** Değerin çoğu operasyonlardan değil varlık portföyünden gelir. Bu yüzden klasik F/K veya FD/FAVÖK çarpanları tek başına yanıltıcı; **PD/DD ve net aktif değer (NAV) iskontosu** daha anlamlı çerçeve.
-- Net kâr çeyrekten çeyreğe çok oynak: tek seferlik satış kârları (ör. Monrol), yatırım gelirleri ve parasal kazanç/kayıp kalemleri baskın.
-- Borçluluk tarihsel olarak çok düşük; net nakit/finansal yatırım pozisyonu güçlü.
+- Net kâr çeyrekten çeyreğe çok oynak: tek seferlik satış kârları (ör. Monrol), yatırım/değerleme gelirleri, özkaynak yöntemi kâr-zararları ve parasal kazanç/kayıp kalemleri baskın. Son 8 çeyrekte net kâr −924 ile +2.014 mn TL arasında salındı.
+- Borçluluk çok düşük: finansal borç ~3,9 milyar TL vs nakit+KV finansal yatırım ~4,0 milyar TL → **net borç ≈ 0** (2026/03). Dev bir mevduat kasası yok; likit nakit ~3,7 milyar TL.
 - Sermaye: 685,26 mn TL nominal (685,26 mn adet hisse).
